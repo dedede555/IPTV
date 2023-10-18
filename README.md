@@ -35,6 +35,8 @@
         </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
+        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/dedede555/IPTV/main/cctv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;自己的cctv源
+        </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG-IPV6源
         </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
